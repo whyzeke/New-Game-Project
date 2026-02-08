@@ -7,13 +7,26 @@ Souls like rolling/dash
 Shooting
 dungeons with minions and bosses at the end
 multiple levels
-pickupable items and guns for progersssion
+pick up items/perks and guns for progersssion
+
 Goals and objectives - 
+reach the end of the dungeon and defeat the boss
 
 Feedback systems - 
+simple ui:
+shows health, stamina, urrent weapon, and skill equipped(like a super from destiny)
+current bullet count(not a limited amo;unt of ammo, mroe of forcning the player to reload)
+reticle for aiming
+
+sounds:
+gun noises, voices for damage, enemy noises
+controller vibration
 
 Challenge and progression - 
-
+Perks
+Guns
+Health
+Stamina
 Player agency - 
 
 A game world or space - 

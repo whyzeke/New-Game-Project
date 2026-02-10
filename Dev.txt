@@ -27,6 +27,7 @@ Perks
 Guns
 Health
 Stamina
+
 Player agency - 
 
 A game world or space - 
@@ -38,18 +39,35 @@ Assets:
 development ideas:
 modularity and reuseability
 
+reusable ideas:
+state machine
+physics based projectile script
+physics collisions 
+health
+hit boxes
+damage display
+enemy ai control
+audio manager
+save/load system
+object pooler for frequently spawned objects
+
+
+
 development cycle:
 
 1. create skeleton
 mechanics
 dependencies
 feel
+Goal: 30 April
 
 2. fine tune gameplay
 test game
 dont compromise on problems/ glitches
+Goal: 15 June
 
 3. finish
 polish the look and feel of the game.
+Goal: 30 July
 
 possible ideas:

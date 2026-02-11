@@ -42,15 +42,24 @@ modularity and reuseability
 reusable ideas:
 state machine
 physics based projectile script
-physics collisions 
+  handle physics arouind bullets
+physics collisions
+  ground/object collisions
 health
+  health
+  damage
+  trigger death
 hit boxes
+  collision detection
+  triggers damage () of body
 damage display
+  displays amount of damage taken by enemies
 enemy ai control
+  general path finding adn enemy behavior
 audio manager
 save/load system
+  transisitionsand autosave function
 object pooler for frequently spawned objects
-
 
 
 development cycle:
